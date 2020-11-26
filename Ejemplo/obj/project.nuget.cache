@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "st/Z7dxVuV6VGvssXZW4v21nR/cfmnxqpCHK6FA7R0y57cjYf2B9NtTiP9PDOCBSnp/cJ29uMb8UL5uDw7MM+A==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
