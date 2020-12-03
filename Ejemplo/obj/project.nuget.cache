@@ -1,18 +1,21 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "/GWuHequRXXblCoUeXdyygArTq/F9Nu9t6YqcCqgeJJE3OHJCzAXQctrsjBpLKNGmsChdKGIr6796T8I8K2gsQ==",
+  "dgSpecHash": "OJfniE/v5o6JUxDxOFWr9GDxURSbrW+wiC/yaBFIdjB8sftkPCgcufpgbbk0LiUgZNDIcxxZ4fQjka5vUjSylQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DOND\\Documents\\Ayudantia_UABC\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DOND\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
-=======
-  "dgSpecHash": "st/Z7dxVuV6VGvssXZW4v21nR/cfmnxqpCHK6FA7R0y57cjYf2B9NtTiP9PDOCBSnp/cJ29uMb8UL5uDw7MM+A==",
-  "success": true,
-  "projectFilePath": "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\richi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
->>>>>>> dff16dee1716d6e98e066d89bce3f95971bb550d
+    "C:\\Users\\DOND\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DOND\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DOND\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DOND\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\DOND\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\DOND\\Documents\\Ayudantia_UABC\\Proyecto_Ayudantia\\Ejemplo\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

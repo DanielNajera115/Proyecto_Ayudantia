@@ -2,11 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-<<<<<<< HEAD
     <TargetFramework>net5.0</TargetFramework>
-=======
     <TargetFramework>netcoreapp3.1</TargetFramework>
->>>>>>> dff16dee1716d6e98e066d89bce3f95971bb550d
   </PropertyGroup>
 
   <ItemGroup>
