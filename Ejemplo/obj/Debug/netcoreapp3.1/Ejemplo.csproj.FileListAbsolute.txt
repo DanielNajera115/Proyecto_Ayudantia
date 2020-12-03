@@ -1,0 +1,15 @@
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.csprojAssemblyReference.cache
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.AssemblyInfoInputs.cache
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.AssemblyInfo.cs
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.csproj.CoreCompileInputs.cache
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\bin\Debug\netcoreapp3.1\Ejemplo.exe
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\bin\Debug\netcoreapp3.1\Ejemplo.deps.json
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\bin\Debug\netcoreapp3.1\Ejemplo.runtimeconfig.json
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\bin\Debug\netcoreapp3.1\Ejemplo.runtimeconfig.dev.json
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\bin\Debug\netcoreapp3.1\Ejemplo.dll
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\bin\Debug\netcoreapp3.1\Ejemplo.pdb
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.csproj.CopyComplete
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.dll
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.pdb
+C:\dev\FAPI\Proyecto_Ayudantia\Ejemplo\obj\Debug\netcoreapp3.1\Ejemplo.genruntimeconfig.cache

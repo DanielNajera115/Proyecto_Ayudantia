@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\DOND\\Documents\\Ayudantia_UABC\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj": {}
   },
   "projects": {
@@ -25,6 +26,33 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
+=======
+    "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
+        "projectName": "Ejemplo",
+        "projectPath": "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
+        "packagesPath": "C:\\Users\\richi\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\richi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+>>>>>>> dff16dee1716d6e98e066d89bce3f95971bb550d
             "projectReferences": {}
           }
         },
@@ -35,8 +63,12 @@
         }
       },
       "frameworks": {
+<<<<<<< HEAD
         "net5.0": {
           "targetAlias": "net5.0",
+=======
+        "netcoreapp3.1": {
+>>>>>>> dff16dee1716d6e98e066d89bce3f95971bb550d
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -58,7 +90,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+>>>>>>> dff16dee1716d6e98e066d89bce3f95971bb550d
         }
       }
     }

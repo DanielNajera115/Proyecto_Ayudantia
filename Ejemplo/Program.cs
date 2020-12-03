@@ -1,17 +1,36 @@
 ﻿using System;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 namespace Test
 {
+
+    class Post{
+        string message;
+        int id;
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            string fbtoken = "EAASeftzCv2EBABU5lgkmKiDn6IU7fWHG2f6TWEpY48ykKGX11qVowo19SVlKAghLs54gxRAy2eopSFEgTD26dvWAdxULv7UA4hAlFqZCt0ZB1RtMN2ZBe9ojV87FZBfm5sD9IntMl8BL0dyM1ZAKiJgqcCgGBDdlKNKmnzMBuva8QnnOFl6CNO2lOES9XZAZCkZD";
-            string fbfields = "posts{id,message}";
+            
+            string fbtoken = "EAAmrG2OoYasBADZAeYkwU0Rhk9C2W5KrkO4ABQSkZBnV9WrKEQZCiFGzPMfFpH7IvJektMChwSYv2j2K6k5LBIZAwUZAZBxIICq7Nleqianbq2foTk1HPaUtWxoQuPkRfseBdfhMDqwRODUHnvIunI3aUgd7wMc19SqZAMGyZBmqz8nTLGvo5ixqmXyl6pOmQjIZD";
+            string fbfields = "posts{message,reactions}";
             FacebookAPI fb = new FacebookAPI(fbtoken);
             string result = fb.GET(fbfields).Result;
             var res = JsonConvert.DeserializeObject(result);
-            Console.Write(res);
+
+            JObject jObject = JObject.Parse(result);
+            JToken memberName = jObject["posts"];
+            //Console.WriteLine(memberName.First.First.First.Next.SelectToken("message"));
+            JToken toGetAllNames = memberName.First.First.First;
+            while(toGetAllNames != null){
+                Console.WriteLine(toGetAllNames.SelectToken("message"));
+                toGetAllNames = toGetAllNames.Next;
+            }
+            //Console.WriteLine(memberName.First.Item("message"));
+            
+            //Console.Write(result);
+
         }
     }
 }

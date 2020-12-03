@@ -1,10 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/GWuHequRXXblCoUeXdyygArTq/F9Nu9t6YqcCqgeJJE3OHJCzAXQctrsjBpLKNGmsChdKGIr6796T8I8K2gsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DOND\\Documents\\Ayudantia_UABC\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DOND\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+=======
+  "dgSpecHash": "st/Z7dxVuV6VGvssXZW4v21nR/cfmnxqpCHK6FA7R0y57cjYf2B9NtTiP9PDOCBSnp/cJ29uMb8UL5uDw7MM+A==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\FAPI\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+>>>>>>> dff16dee1716d6e98e066d89bce3f95971bb550d
   ],
   "logs": []
 }

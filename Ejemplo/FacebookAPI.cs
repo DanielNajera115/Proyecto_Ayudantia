@@ -2,7 +2,7 @@ using System;
 using System.Threading.Tasks;
 using System.Net.Http;
 
-namespace Test{
+namespace Ejemplo{
     public class FacebookAPI{
         private string tokenApi;
         private const string fb_addres = "https://graph.facebook.com/";
