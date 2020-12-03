@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GWuHequRXXblCoUeXdyygArTq/F9Nu9t6YqcCqgeJJE3OHJCzAXQctrsjBpLKNGmsChdKGIr6796T8I8K2gsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DOND\\Documents\\Ayudantia_UABC\\Proyecto_Ayudantia\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DOND\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
