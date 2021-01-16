@@ -1,0 +1,14 @@
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\bin\Debug\AyudantiaGui.exe.config
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\bin\Debug\AyudantiaGui.exe
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\bin\Debug\AyudantiaGui.pdb
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.csprojAssemblyReference.cache
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.Form1.resources
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.Properties.Resources.resources
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.csproj.GenerateResource.cache
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.csproj.CoreCompileInputs.cache
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.exe
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.pdb
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.PostList.resources
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DOND\Documents\Ayudantia_UABC\GUI\AyudantiaGui\AyudantiaGui\obj\Debug\AyudantiaGui.csproj.CopyComplete
